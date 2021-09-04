@@ -15,7 +15,7 @@ Data Analysis and Visualization of placement data
 
  In chart 2, most of the students joined in the degree of Commerce and Management. It shows the relationship between degree and gender with placement status
  
-**Chart 3 **
+**Chart 3**
 
  It shows the histogram plot of degree percentage with gender count. Most of the students degree percentage lies between 60 - 70. 
 
