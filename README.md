@@ -3,7 +3,7 @@ Data Analysis and Visualization of placement data
 
  The Students are categorised into Male and Female in the placement dataset and they are belongs to the stream of Commerce, Science & Arts
  
- **FacetGrid**
+ # FacetGrid
  
  FacetGrid class helps in visualizing distribution of one variable as well as the relationship between multiple variables separately within subsets of your dataset using  multiple panels. 
  
