@@ -7,13 +7,13 @@ Data Analysis and Visualization of placement data
  
  FacetGrid class helps in visualizing distribution of one variable as well as the relationship between multiple variables separately within subsets of your dataset using  multiple panels. 
  
-** Chart 1**
+**Chart 1**
  In chart 1, most of the students are from the stream of Commerce and male count is higher than female count. Also, chart 1 the placement status of the students
  
-** Chart 2**
+**Chart 2**
  In chart 2, most of the students joined in the degree of Commerce and Management. It shows the relationship between degree and gender with placement status
  
-** Chart 3 **
+**Chart 3 **
  It shows the histogram plot of degree percentage with gender count. Most of the students degree percentage lies between 60 - 70. 
 
  **Chart 4**
@@ -22,5 +22,5 @@ Data Analysis and Visualization of placement data
  **Chart 5**
  Chart 5 shows gender wise count with working status
  
-** Chart 6**
+**Chart 6**
  Chart 6 shows gender wise count with placement status
